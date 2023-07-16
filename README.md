@@ -23,4 +23,4 @@ options:
   -c {r,g,b}, --color {r,g,b}
                         main color of generated image .
 
-check ou my new pentesting tool at (predator)[https://predatorc.netlify.app Predator]
+check ou my new pentesting tool at [predator](https://predatorc.netlify.app Predator)
