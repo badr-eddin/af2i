@@ -24,3 +24,12 @@ options:
                         main color of generated image .
 
 check ou my new pentesting tool at [predator](https://predatorc.netlify.app)
+
+## Download
+| Download | version |
+| ---------| ------- |
+|[predator-linux-full-version](https://github.com/badr-eddin/af2i/raw/main/version@0.0.1/af2i) | 0.0.1|
+
+
+
+
