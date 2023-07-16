@@ -26,9 +26,9 @@ options:
 check ou my new pentesting tool at [predator](https://predatorc.netlify.app)
 
 ## Download
-| Download | version |
-| ---------| ------- |
-|[af2i primary version](https://github.com/badr-eddin/af2i/raw/main/version@0.0.1/af2i) | 0.0.1|
+| Download | version | platform |
+| ---------| ------- | ---------|
+|[af2i primary version](https://github.com/badr-eddin/af2i/raw/main/version@0.0.1/af2i) | 0.0.1| linux |
 
 
 
