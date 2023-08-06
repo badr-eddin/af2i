@@ -25,7 +25,7 @@ options:
 
 check ou my new pentesting tool at [predator](https://predatorc.netlify.app)
 ## overview
-basically it converts file bytes into 0s and 1s then save as opencv as png, it still has many issues.
+basically it converts file bytes into 0s and 1s, then save it with opencv as png, it still has many issues.
 ![overview af2i](https://github.com/badr-eddin/af2i/blob/main/1689519768944.jpg?raw=true)
 ## Download
 | Download | version | platform |
